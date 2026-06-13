@@ -93,9 +93,7 @@ https://github.com/NavyathaRameswarapu/decode_labs-task-2-Navyatha
 Python Programming Intern
 Decode Labs
 
-🔗 GitHub Profile: [NavyathaRameswarapu GitHub](https://github.com/NavyathaRameswarapu?utm_source=chatgpt.com)
-
----
+🔗 GitHub Profile: https://github.com/NavyathaRameswarapu
 
 ## 📜 License
 
